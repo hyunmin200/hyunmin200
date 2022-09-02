@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6ae676&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=Hyunmin200's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=ffffff)
 
   <h1>:sparkles:황현민(HwangHyunMin):sparkles:</h2>
-  ### :video_game:게임개발자가 되고 싶은 학생:video_game:</h2>
+  ### :video_game:게임개발자가 되고 싶은 학생:video_game:
   '''
   안녕하세요 저는 게임 개발자가 되고 싶은 학생 황현민입니다.
   저의 메인 언어는 C#이고 메인 엔진은 Unity입니다
