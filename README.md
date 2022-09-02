@@ -2,8 +2,7 @@
 <div align = center>
   <h2>SNS</h2>
   <a href="https://www.instagram.com/h_hyun._.min/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
+
   <h2>:computer:Main Tech Stack:computer:</h2>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Csharp-239120.svg?style=for-the-badge&logo=Csharp&logoColor=while">
