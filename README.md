@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6ae676&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=Hyunmin200's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=ffffff)
-<div align = center>
+
   <h1>:sparkles:황현민(HwangHyunMin):sparkles:</h2>
   <h2>:video_game:게임개발자가 되고 싶은 학생:video_game:</h2>
   '''
@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Unreal-0E1128.svg?style=for-the-badge&logo=UnrealEngine&logoColor=white">
   
   
-</div>
 <h1 style = align: center>My Stats</h1>
 [![HyunMin200's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunMin200&theme=calm)](https://github.com/HyunMin200/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunMin200&layout=compact&theme=gruvbox)](https://github.com/HyunMin200/github-readme-stats)
