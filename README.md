@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6ae676&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=Hyunmin200's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=ffffff)
 <div align = center>
-  <h1>황현민(HwangHyunMin)</h2>
-  <h2>게임개발자가 되고 싶은 학생</h2>
+  <h1>:sparkles:황현민(HwangHyunMin):sparkles:</h2>
+  <h2>:video_game:게임개발자가 되고 싶은 학생:video_game:</h2>
   <h2>SNS</h2>
   <a href="https://www.instagram.com/h_hyun._.min/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <h2>:computer:Main Tech Stack:computer:</h2>
@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Unreal-0E1128.svg?style=for-the-badge&logo=UnrealEngine&logoColor=white">
   
-  <h1 style = align: center>My Stats</h1>
+  
 </div>
-
+<h1 style = align: center>My Stats</h1>
 [![HyunMin200's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunMin200&theme=calm)](https://github.com/HyunMin200/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunMin200&layout=compact&theme=gruvbox)](https://github.com/HyunMin200/github-readme-stats)
