@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6ae676&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=Hyunmin200's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=ffffff)
 <div align = center>
-  <h1>게임개발자가 되고 싶은 학생</h1>
-  
+  <h1>황현민(HwangHyunMin)</h2>
+  <h2>게임개발자가 되고 싶은 학생</h2>
   <h2>SNS</h2>
   <a href="https://www.instagram.com/h_hyun._.min/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <h2>:computer:Main Tech Stack:computer:</h2>
