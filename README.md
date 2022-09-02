@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Unreal-0E1128.svg?style=for-the-badge&logo=UnrealEngine&logoColor=white">
   
   <h1 style = align: center>My Stats</h1>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunMin200&show_icons=true&theme=calm)
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunMin200)](https://github.com/HyunMin200/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunMin200&theme=calm)](https://github.com/HyunMin200/github-readme-stats)
