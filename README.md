@@ -2,6 +2,9 @@
 <div align = center>
   <h1>:sparkles:황현민(HwangHyunMin):sparkles:</h2>
   <h2>:video_game:게임개발자가 되고 싶은 학생:video_game:</h2>
+  <p>안녕하세요 저는 게임 개발자가 되고 싶은 학생 황현민입니다.
+  저의 메인 언어는 C#이고 메인 엔진은 Unity입니다</p>
+  
   <h2>SNS</h2>
   <a href="https://www.instagram.com/h_hyun._.min/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <h2>:computer:Main Tech Stack:computer:</h2>
