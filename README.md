@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=92e89b&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=Hyunmin200's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=b0d9b4&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=Hyunmin200's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=ffffff)
 <div align = center>
   <h2>:computer:Tech Stack:computer:</h2>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
