@@ -3,7 +3,9 @@
   <h2>:computer:Tech Stack:computer:</h2>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Csharp-239120.svg?style=for-the-badge&logo=Csharp&logoColor=while">
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=Cpp&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black">
   <h2>:hatching_chick:Studying:hatching_chick:</h2>
 </div>
+
+
