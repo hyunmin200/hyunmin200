@@ -2,5 +2,6 @@
 <div align = center>
   <h2>:computer:Tech Stack:computer:</h2>
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black">
+  <img src="https://img.shields.io/badge/Csharp-239120.svg?style=for-the-badge&logo=Csharp&logoColor=black">
   <h2>:hatching_chick:Studying:hatching_chick:</h2>
 </div>
