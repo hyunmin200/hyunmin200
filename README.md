@@ -35,7 +35,7 @@
 
 <h1>My Stats</h1>
 <div align="center">
-<img align = "right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=200woni">
+<img align = "left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=200woni">
 
 [![HyunMin200's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunMin200&theme=calm)](https://github.com/HyunMin200/github-readme-stats)
 
