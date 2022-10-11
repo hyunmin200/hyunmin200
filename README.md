@@ -34,7 +34,7 @@
 </div>
 
 <h1>My Stats</h1>
-<div align="center"> <!-- align="center" -->
+<div> <!-- align="center" -->
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=200woni)](https://solved.ac/200woni/)
   
