@@ -35,7 +35,7 @@
 
 <h1>My Stats</h1>
 <div> <!-- align="center" -->
-  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=200woni)](https://solved.ac/200woni)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=200woni)](https://solved.ac/200woni/)
   
 [![HyunMin200's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunMin200&theme=calm)](https://github.com/HyunMin200/github-readme-stats)
