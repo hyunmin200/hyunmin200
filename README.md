@@ -16,7 +16,7 @@
 <h2>:computer:Main Tech Stack:computer:</h2>
 <div align = left>
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C#-239120.svg?style=for-the-badge&logo=Csharp&logoColor=while">
+<img src="https://img.shields.io/badge/Csharp-239120.svg?style=for-the-badge&logo=Csharp&logoColor=while">
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black">
 </div>
