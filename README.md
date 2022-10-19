@@ -42,6 +42,6 @@
   
 [![hyunmin200's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmin200&theme=calm)](https://github.com/hyunmin200/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunMin200&layout=compact&theme=gruvbox)](https://github.com/HyunMin200/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmin200&layout=compact&theme=gruvbox)](https://github.com/hyunmin200/github-readme-stats)
 
 </div>
