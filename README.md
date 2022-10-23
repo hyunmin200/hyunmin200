@@ -37,7 +37,9 @@
 <div> <!-- align="center" -->
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=200woni)](https://solved.ac/200woni/)
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=200woni)](https://solved.ac/200woni/)
+  
 [![hyunmin200's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmin200&theme=calm)](https://github.com/hyunmin200/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmin200&layout=compact&theme=gruvbox)](https://github.com/hyunmin200/github-readme-stats)
