@@ -15,6 +15,7 @@
 </div>
 <h2>:computer:Main Tech Stack:computer:</h2>
 <div align = left>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Csharp-239120.svg?style=for-the-badge&logo=Csharp&logoColor=while">
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -29,7 +30,6 @@
 <h2>:hatching_chick:Studying:hatching_chick:</h2>
 <div align = left>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Unreal-0E1128.svg?style=for-the-badge&logo=UnrealEngine&logoColor=white">
 </div>
 
@@ -44,4 +44,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmin200&layout=compact&theme=gruvbox)](https://github.com/hyunmin200/github-readme-stats)
 
-</div> 
+</div>
