@@ -3,7 +3,7 @@
 <h1>:sparkles:황현민(HwangHyunMin):sparkles:</h2>
 
 ### :video_game:게임개발자가 되고 싶은 학생:video_game:
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunmin200&count_bg=%23C074FF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ~~~
 안녕하세요 저는 게임 개발자가 되고 싶은 학생 황현민입니다.
 저의 메인 언어는 C#이고 메인 엔진은 Unity입니다
@@ -38,8 +38,6 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=200woni)](https://solved.ac/200woni/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunmin200&count_bg=%2379C83D&title_bg=%23555555&icon=1001tracklists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=200woni)](https://solved.ac/200woni/)
   
 [![hyunmin200's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmin200&theme=calm)](https://github.com/hyunmin200/github-readme-stats)
