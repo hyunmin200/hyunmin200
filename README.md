@@ -2,7 +2,7 @@
 
 <h1>:sparkles:황현민(HwangHyunMin):sparkles:</h2>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunmin200&count_bg=%23C074FF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunmin200&count_bg=%23C279FF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### :video_game:게임개발자가 되고 싶은 학생:video_game:
 
