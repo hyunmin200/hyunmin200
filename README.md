@@ -30,7 +30,7 @@
 <h1>My Stats</h1> 
 <div> <!-- align="center" -->
   
-<a href="https://opgc.me/#/users/hyunmin200" target="_blank"><img src="https://api.opgc.me/githubs/users/hyunmin200/tag/?theme=basic" /></a>    
+<!--<a href="https://opgc.me/#/users/hyunmin200" target="_blank"><img src="https://api.opgc.me/githubs/users/hyunmin200/tag/?theme=basic" /></a> -->   
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=200woni)](https://solved.ac/200woni/)
   
