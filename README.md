@@ -24,7 +24,7 @@
 </div>
 <h2>:hatching_chick:Studying:hatching_chick:</h2>
 <div align = left>
-<img src="https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=WinApi32&logoColor=white">
 <img src="https://img.shields.io/badge/Unreal-0E1128.svg?style=for-the-badge&logo=UnrealEngine&logoColor=white">
 </div>
 
