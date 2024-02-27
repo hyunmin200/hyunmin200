@@ -13,5 +13,6 @@
 <div align = left>
 <a href="https://www.instagram.com/h_hyun._.min/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@200woni" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  
-my email: gyejeongjin@gmail.com
 </div>
+
+my email: gyejeongjin@gmail.com
