@@ -25,20 +25,3 @@
 <img src="https://img.shields.io/badge/WinApi32-0078D6.svg?style=for-the-badge&logo=windows10&logoColor=white">
 <img src="https://img.shields.io/badge/Unreal-0E1128.svg?style=for-the-badge&logo=UnrealEngine&logoColor=white">
 </div>
-
-<h1>My Stats</h1> 
-<div> <!-- align="center" -->
-  
-<!--<a href="https://opgc.me/#/users/hyunmin200" target="_blank"><img src="https://api.opgc.me/githubs/users/hyunmin200/tag/?theme=basic" /></a> -->   
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=200woni)](https://solved.ac/200woni/)
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=200woni)](https://solved.ac/200woni/)
-  
-<!-- [![hyunmin200's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmin200&theme=calm)](https://github.com/hyunmin200/github-readme-stats) -->
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmin200&layout=compact&theme=gruvbox)](https://github.com/hyunmin200/github-readme-stats)
-  
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/hyunmin200/) -->
-
-</div>   
