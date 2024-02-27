@@ -13,15 +13,3 @@
 <a href="https://www.instagram.com/h_hyun._.min/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@200woni" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
-<h2>:computer:Main Tech Stack:computer:</h2>
-<div align = left>
-<!-- <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"> -->
-<img src="https://img.shields.io/badge/Csharp-239120.svg?style=for-the-badge&logo=Csharp&logoColor=while">
-<img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black">
-</div>
-<h2>:hatching_chick:Studying:hatching_chick:</h2>
-<div align = left>
-<img src="https://img.shields.io/badge/WinApi32-0078D6.svg?style=for-the-badge&logo=windows10&logoColor=white">
-<img src="https://img.shields.io/badge/Unreal-0E1128.svg?style=for-the-badge&logo=UnrealEngine&logoColor=white">
-</div>
