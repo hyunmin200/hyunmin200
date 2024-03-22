@@ -17,4 +17,13 @@
 
 `email`: gyejeongjin@gmail.com
 
-# Repo
+# 프론트엔드 입문
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JsStudyIsCold&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JsStudyIsCold">
+</picture>](https://github.com/JobMarketIsCold/JsStudyIsCold)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=ReactStudyIsCold&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=ReactStudyIsCold">
+</picture>](https://github.com/JobMarketIsCold/ReactStudyIsCold)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=FullStackStudyIsCold&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=FullStackStudyIsCold">
+</picture>](https://github.com/JobMarketIsCold/FullStackStudyIsCold)
