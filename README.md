@@ -17,7 +17,7 @@
 
 `email`: gyejeongjin@gmail.com
 
-# 웹 개발 입문
+# 웹 개발 입문 레포
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=HtmlAndCssStudyIsCold&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=HtmlAndCssStudyIsCold">
 </picture>]([https://github.com/JobMarketIsCold/JsStudyIsCold](https://github.com/JobMarketIsCold/HtmlAndCssStudyIsCold))
