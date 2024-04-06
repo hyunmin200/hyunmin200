@@ -15,7 +15,7 @@
 <a href="https://velog.io/@200woni" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  
 </div>
 
-`email`: gyejeongjin@gmail.com
+`email`: gyejeongjin@gmail.com  
 `notion portfolio`: [노션 포트폴리오 링크(미완)](https://plausible-dress-2c7.notion.site/200-091e37d0d2b34633a9c861ee44d69acb?pvs=4)
 
 # 웹 개발 입문 레포
