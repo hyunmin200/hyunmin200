@@ -16,6 +16,7 @@
 </div>
 
 `email`: gyejeongjin@gmail.com
+`notion portfolio`: [노션 포트폴리오 링크(미완)](https://plausible-dress-2c7.notion.site/200-091e37d0d2b34633a9c861ee44d69acb?pvs=4)
 
 # 웹 개발 입문 레포
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=HtmlAndCssStudyIsCold&theme=github_dark"/>
