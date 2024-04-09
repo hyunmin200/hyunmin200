@@ -21,12 +21,12 @@
 # 간단 미니 프로젝트
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=hyunmin200&repo=CoinTracker&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=hyunmin200&repo=CoinTracker">
-</picture>]([https://github.com/hyunmin200/CoinTracker](https://github.com/hyunmin200/CoinTracker))
+</picture>]((https://github.com/hyunmin200/CoinTracker))
 
 # 웹 개발 입문 레포
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=HtmlAndCssStudyIsCold&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=HtmlAndCssStudyIsCold">
-</picture>]([https://github.com/JobMarketIsCold/JsStudyIsCold](https://github.com/JobMarketIsCold/HtmlAndCssStudyIsCold))
+</picture>]((https://github.com/JobMarketIsCold/HtmlAndCssStudyIsCold))
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JsStudyIsCold&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JsStudyIsCold">
 </picture>](https://github.com/JobMarketIsCold/JsStudyIsCold)
