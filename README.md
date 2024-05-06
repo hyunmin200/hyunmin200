@@ -46,3 +46,8 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=FullStackStudyIsCold&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=FullStackStudyIsCold">
 </picture>](https://github.com/JobMarketIsCold/FullStackStudyIsCold)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=NextJsIsCold&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=NextJsIsCold">
+</picture>](https://github.com/JobMarketIsCold/NextJsIsCold)
+
+
