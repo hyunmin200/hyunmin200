@@ -51,3 +51,7 @@
 </picture>](https://github.com/JobMarketIsCold/NextJsIsCold)
 
 # 제로베이스
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=hyunmin200&repo=ZeroBase27&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=hyunmin200&repo=ZeroBase27">
+</picture>](https://github.com/hyunmin200/ZeroBase27)
+
