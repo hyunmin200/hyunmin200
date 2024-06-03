@@ -11,7 +11,7 @@
 </div>
 
 `email`: gyejeongjin@gmail.com  
-`notion portfolio`: [노션 포트폴리오 링크(미완)](https://plausible-dress-2c7.notion.site/200-091e37d0d2b34633a9c861ee44d69acb?pvs=4)
+`notion portfolio`: 미완성
 
 # 프로젝트
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=AgeLens&repo=AgeLens_Front&theme=github_dark"/>
