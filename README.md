@@ -19,39 +19,3 @@
 </picture>](https://github.com/AgeLens/AgeLens_Front)
 
 
-# 간단 미니 프로젝트
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=hyunmin200&repo=CoinTracker&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=hyunmin200&repo=CoinTracker">
-</picture>](https://github.com/hyunmin200/CoinTracker)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=hyunmin200&repo=TDL_200&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=hyunmin200&repo=TDL_200">
-</picture>](https://github.com/hyunmin200/TDL_200)
-
-
-
-
-# 웹 개발 입문 레포
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=HtmlAndCssStudyIsCold&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=HtmlAndCssStudyIsCold">
-</picture>](https://github.com/JobMarketIsCold/HtmlAndCssStudyIsCold)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JsStudyIsCold&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JsStudyIsCold">
-</picture>](https://github.com/JobMarketIsCold/JsStudyIsCold)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=ReactStudyIsCold&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=ReactStudyIsCold">
-</picture>](https://github.com/JobMarketIsCold/ReactStudyIsCold)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=ReactMiddleClassIsCold&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=ReactMiddleClassIsCold">
-</picture>](https://github.com/JobMarketIsCold/ReactMiddleClassIsCold)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=FullStackStudyIsCold&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=FullStackStudyIsCold">
-</picture>](https://github.com/JobMarketIsCold/FullStackStudyIsCold)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=NextJsIsCold&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=NextJsIsCold">
-</picture>](https://github.com/JobMarketIsCold/NextJsIsCold)
-
-# 제로베이스
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=hyunmin200&repo=ZeroBase27&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=hyunmin200&repo=ZeroBase27">
-</picture>](https://github.com/hyunmin200/ZeroBase27)
-
