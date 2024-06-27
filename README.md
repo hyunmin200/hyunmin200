@@ -19,5 +19,8 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=AgeLens&repo=AgeLens_Front&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=AgeLens&repo=AgeLens_Front">
 </picture>](https://github.com/AgeLens/AgeLens_Front)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=OnlyHoshino&repo=ChatHoshino_Frontend&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=OnlyHoshino&repo=ChatHoshino_Frontend">
+</picture>](https://github.com/OnlyHoshino/ChatHoshino_Frontend)
 
 
