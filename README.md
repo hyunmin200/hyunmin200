@@ -13,7 +13,6 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=200woni)](https://velog.io/@200woni)
 
 `email`: gyejeongjin@gmail.com  
-`notion portfolio`: 미완성
 
 # 프로젝트
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=AgeLens&repo=AgeLens_Front&theme=github_dark"/>
