@@ -10,7 +10,7 @@
 <a href="https://velog.io/@200woni" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  
 </div>
 
-velog 최신 글  
+### velog 최신 글  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=200woni)](https://velog.io/@200woni)
 
 `email`: gyejeongjin@gmail.com  
